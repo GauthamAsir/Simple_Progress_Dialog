@@ -1,0 +1,3 @@
+rootProject.name='Simple_Progress_Dialog'
+include ':app'
+include ':simpleprogressdialog'
